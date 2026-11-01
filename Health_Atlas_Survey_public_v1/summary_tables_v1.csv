@@ -1,0 +1,42 @@
+section,indicator,value,n
+Sample,Forms,59,59
+Sample,Female patients,40.7%,59
+Sample,Children under 18,33.9%,59
+Sample,Village households,64.9%,57
+Sample,"Household spending under 15,000 BDT/month",31.0%,58
+Sample,Households outside Dhaka division,44.1%,59
+Sample,On dialysis,13,59
+"Medical out-of-pocket cost (BDT, whole illness so far, rounded to 100)",Median,"88,400",58
+"Medical out-of-pocket cost (BDT, whole illness so far, rounded to 100)",25th percentile,"45,100",58
+"Medical out-of-pocket cost (BDT, whole illness so far, rounded to 100)",75th percentile,"185,000",58
+"Medical out-of-pocket cost (BDT, whole illness so far, rounded to 100)","Median, illness within 12 months","71,900",48
+"Medical out-of-pocket cost (BDT, whole illness so far, rounded to 100)","Median, illness longer than 12 months","178,000",10
+"Medical out-of-pocket cost (BDT, whole illness so far, rounded to 100)",Median total incl. transport and food,"103,200",58
+"Medical out-of-pocket cost (BDT, whole illness so far, rounded to 100)",Median cost as months of household spending,4.1,57
+Share of medical cost (fully itemised forms),Diagnostics & imaging,61.2%,25
+Share of medical cost (fully itemised forms),Medicines,17.5%,25
+Share of medical cost (fully itemised forms),Bed / procedures / dialysis,19.3%,25
+Share of medical cost (fully itemised forms),Doctor fees,1.9%,25
+Catastrophic spending (12-month medical cost vs annual household spending),Over 10%,93.0%,57
+Catastrophic spending (12-month medical cost vs annual household spending),Over 25%,54.4%,57
+Catastrophic spending (12-month medical cost vs annual household spending),Median share of annual spending,26.6%,57
+Financing and consequences,Paid from savings,24.1%,58
+Financing and consequences,Paid from current income,8.6%,58
+Financing and consequences,Borrowed from relatives/friends,34.5%,58
+Financing and consequences,Borrowed from lender/NGO/bank,25.9%,58
+Financing and consequences,Sold/pawned an asset,13.8%,58
+Financing and consequences,Any borrowing or asset sale,77.6%,58
+Financing and consequences,Delayed care because of cost,44.1%,59
+Financing and consequences,Would return to the same hospital,82.5%,57
+Care-seeking path,First care at government hospital,52.5%,59
+Care-seeking path,First care at private clinic/hospital,35.6%,59
+Care-seeking path,Came to this hospital directly,5.1%,59
+Care-seeking path,Mean providers seen before this hospital,2.0,58
+Care-seeking path,Took medicine before any prescription,43.1%,58
+Median medical cost by condition (BDT),Kidney failure / dialysis,"107,100",13
+Median medical cost by condition (BDT),CKD / kidney damage,"201,200",5
+Median medical cost by condition (BDT),Glomerular disease,"150,300",9
+Median medical cost by condition (BDT),Kidney stone,"29,300",9
+Median medical cost by condition (BDT),Obstruction / hydronephrosis,"70,800",10
+Median medical cost by condition (BDT),Tumour / cancer,"118,000",7
+Median medical cost by condition (BDT),Other / undiagnosed,suppressed (n<5),4
