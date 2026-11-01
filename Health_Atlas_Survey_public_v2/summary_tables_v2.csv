@@ -1,0 +1,42 @@
+section,indicator,all_value,all_n,inpatients_value,inpatients_n,outpatients_value,outpatients_n
+Sample,Forms,99,99,59,59,40,40
+Sample,Female patients,33.3%,99,40.7%,59,22.5%,40
+Sample,Children under 18,24.5%,98,33.9%,59,10.3%,39
+Sample,Village households,47.4%,95,64.9%,57,21.1%,38
+Sample,"Household spending under 15,000 BDT/month",27.6%,98,31.0%,58,22.5%,40
+Sample,Households outside Dhaka division,37.4%,99,44.1%,59,27.5%,40
+Sample,On dialysis,18,99,13,59,5,40
+"Medical out-of-pocket cost (BDT, whole illness so far, rounded to 100)",Median,"65,500",98,"88,400",58,"26,700",40
+"Medical out-of-pocket cost (BDT, whole illness so far, rounded to 100)",25th percentile,"25,700",98,"45,100",58,"10,800",40
+"Medical out-of-pocket cost (BDT, whole illness so far, rounded to 100)",75th percentile,"173,400",98,"185,000",58,"92,000",40
+"Medical out-of-pocket cost (BDT, whole illness so far, rounded to 100)","Median, illness within 12 months","47,600",78,"71,900",48,"15,800",30
+"Medical out-of-pocket cost (BDT, whole illness so far, rounded to 100)","Median, illness longer than 12 months","195,200",20,"178,000",10,"212,200",10
+"Medical out-of-pocket cost (BDT, whole illness so far, rounded to 100)",Median total incl. transport and food,"74,000",98,"103,200",58,"33,600",40
+"Medical out-of-pocket cost (BDT, whole illness so far, rounded to 100)",Median cost as months of household spending,3.0,97,4.1,57,1.1,40
+Share of medical cost (fully itemised forms),Diagnostics & imaging,62.8%,46,61.2%,25,67.2%,21
+Share of medical cost (fully itemised forms),Medicines,16.4%,46,17.5%,25,13.4%,21
+Share of medical cost (fully itemised forms),Bed / procedures / dialysis,18.1%,46,19.3%,25,14.8%,21
+Share of medical cost (fully itemised forms),Doctor fees,2.6%,46,1.9%,25,4.7%,21
+Catastrophic spending (12-month medical cost vs annual household spending),Over 10%,75.3%,97,93.0%,57,50.0%,40
+Catastrophic spending (12-month medical cost vs annual household spending),Over 25%,41.2%,97,54.4%,57,22.5%,40
+Catastrophic spending (12-month medical cost vs annual household spending),Median share of annual spending,19.4%,97,26.6%,57,9.2%,40
+Financing and consequences,Paid from savings,39.8%,98,24.1%,58,62.5%,40
+Financing and consequences,Paid from current income,14.3%,98,8.6%,58,22.5%,40
+Financing and consequences,Borrowed from relatives/friends,30.6%,98,34.5%,58,25.0%,40
+Financing and consequences,Borrowed from lender/NGO/bank,17.3%,98,25.9%,58,5.0%,40
+Financing and consequences,Sold/pawned an asset,12.2%,98,13.8%,58,10.0%,40
+Financing and consequences,Any borrowing or asset sale,61.2%,98,77.6%,58,37.5%,40
+Financing and consequences,Delayed care because of cost,41.8%,98,44.1%,59,38.5%,39
+Financing and consequences,Would return to the same hospital,75.8%,95,82.5%,57,65.8%,38
+Care-seeking path,First care at government hospital,42.3%,97,52.5%,59,26.3%,38
+Care-seeking path,First care at private clinic/hospital,39.2%,97,35.6%,59,44.7%,38
+Care-seeking path,Came to this hospital directly,13.4%,97,5.1%,59,26.3%,38
+Care-seeking path,Mean providers seen before this hospital,1.7,98,2.0,58,1.3,40
+Care-seeking path,Took medicine before any prescription,27.6%,98,43.1%,58,5.0%,40
+Median medical cost by condition (BDT),Kidney failure / dialysis,"114,300",18,"107,100",13,"200,000",5
+Median medical cost by condition (BDT),CKD / kidney damage,"183,200",8,"201,200",5,suppressed (n<5),3
+Median medical cost by condition (BDT),Glomerular disease,"150,200",10,"150,300",9,suppressed (n<5),1
+Median medical cost by condition (BDT),Kidney stone,"17,000",17,"29,300",9,"11,200",8
+Median medical cost by condition (BDT),Obstruction / hydronephrosis,"62,500",18,"70,800",10,"37,400",8
+Median medical cost by condition (BDT),Tumour / cancer,"118,000",9,"118,000",7,suppressed (n<5),2
+Median medical cost by condition (BDT),Other / undiagnosed,"25,000",16,suppressed (n<5),4,"17,000",12

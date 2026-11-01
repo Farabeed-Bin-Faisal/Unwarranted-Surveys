@@ -1,0 +1,12 @@
+Privacy check: survey_public_v2.csv
+  99 rows; district kept for all 99; 34 districts, 16 with only one patient
+  values blanked so every row matches at least 3 rows on ['visit_type', 'sex', 'adult', 'region', 'residence']: residence 12, adult 4, sex 2
+  smallest group after suppression: 3
+
+Exact (confidential) vs public file: n usable, median medical OOP, cat >10%, cat >25%, borrowed/sold assets, cost delay
+  all          exact  [98, 65510.0, 0.753, 0.412, 0.612, 0.418]
+  all          public [98, 65510.0, 0.753, 0.412, 0.612, 0.418]
+  inpatients   exact  [58, 88350.0, 0.93, 0.544, 0.776, 0.441]
+  inpatients   public [58, 88350.0, 0.93, 0.544, 0.776, 0.441]
+  outpatients  exact  [40, 26700.0, 0.5, 0.225, 0.375, 0.385]
+  outpatients  public [40, 26700.0, 0.5, 0.225, 0.375, 0.385]
